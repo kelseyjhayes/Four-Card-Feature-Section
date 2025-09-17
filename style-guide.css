@@ -1,0 +1,62 @@
+/*TYPOGRAPHY*/
+
+@font-face {
+  font-family: "Poppins Regular";
+  src: url(./assets/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins Extra-Light";
+  src: url(./assets/Poppins-ExtraLight.ttf)
+}
+
+@font-face {
+  font-family: "Poppins Semibold";
+  src: url(./assets/Poppins-SemiBold.ttf)
+}
+
+.text-preset-1 {
+  font-family:Poppins Semibold, sans-serif;
+  font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
+  line-height: 140%;
+  letter-spacing: 0.25px;
+}
+
+.text-preset-2 {
+  font-family:Poppins Extra-Light, sans-serif;
+  font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
+  line-height:140%;
+  letter-spacing: 0.25px;
+}
+
+.text-preset-3 {
+  font-family:Poppins Semibold, sans-serif;
+  font-size:1.25rem;
+  line-height: 135%;
+}
+
+.text-preset-4 {
+  font-family:Poppins Regular, sans-serif;
+  font-size:0.9735rem;
+  line-height: 140%;
+  letter-spacing: 0.1px;
+}
+
+.text-preset-5 {
+  font-family:Poppins Regular, sans-serif;
+  font-size:0.8125rem;
+  line-height: 160%;
+  letter-spacing:0.09px;
+}
+
+/*COLORS*/
+
+:root {
+  --grey-500: #4D4F62;
+  --grey-400: #6A7178;
+  --white:#fff;
+  --red:#EA5454;
+  --cyan:#44D3D2;
+  --blue:#549EF2;
+  --orange:#FCAE4A;
+}
