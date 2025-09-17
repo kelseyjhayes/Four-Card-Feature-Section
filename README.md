@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/kelseyjhayes/Four-Card-Feature-Section)
+- [Live Site](https://your-live-site-url.com)
 
 ## My process
 
@@ -45,8 +45,8 @@ Users should be able to:
 
 This was a great exercise for putting my knowledge of CSS Grids to use, and using Grids in combination with Flexbox to acheive a desired look. 
 
-I was really focused on creating pleasant designs across screen sizes, including those lower than 375px. I accomplished this by using the clamp function to creating responsive padding and box sizes even as screen size gets narrower. 
+I was really focused on creating pleasant designs across screen sizes, including those lower than 375px. I accomplished this by using the clamp function to create responsive padding and box sizes even as screen sizes get narrower. 
 
 ### Continued development
 
-I would like to continue improving my knowledge of CSS Grids, so i may be able to create more complex layouts. I would also like to learn how to make the transitions between grid layouts smoother across screen sizes. 
+I would like to continue improving my knowledge of CSS Grids, so I can create more complex layouts. I would also like to learn how to make the transitions between grid layouts smoother across screen sizes. 
