@@ -20,6 +20,7 @@
   font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
   line-height: 140%;
   letter-spacing: 0.25px;
+  color:var(--grey-500);
 }
 
 .text-preset-2 {
@@ -27,12 +28,14 @@
   font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
   line-height:140%;
   letter-spacing: 0.25px;
+  color:var(--grey-500);
 }
 
 .text-preset-3 {
   font-family:Poppins Semibold, sans-serif;
   font-size:1.25rem;
   line-height: 135%;
+  color:var(--grey-500);
 }
 
 .text-preset-4 {
@@ -40,6 +43,7 @@
   font-size:0.9735rem;
   line-height: 140%;
   letter-spacing: 0.1px;
+  color:var(--grey-500);
 }
 
 .text-preset-5 {
@@ -47,6 +51,7 @@
   font-size:0.8125rem;
   line-height: 160%;
   letter-spacing:0.09px;
+  color:var(--grey-400);
 }
 
 /*COLORS*/

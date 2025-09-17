@@ -25,6 +25,13 @@ body {
   text-align:center;
 }
 
+.section-heading h1 {
+  font-family:Poppins Regular, sans-serif;
+  font-size:0.9735rem;
+  line-height: 140%;
+  letter-spacing: 0.1px;
+}
+
 .section-heading p {
   margin-top:1rem;
   margin-bottom:4.5625rem;
@@ -84,6 +91,15 @@ body {
 }
 
 @media screen and (min-width:48rem){
+  .section-heading h1 {
+  font-family:Poppins Extra-Light, sans-serif;
+  font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
+  line-height:140%;
+  letter-spacing: 0.25px;
+  color:var(--grey-500);
+}
+}
+
   .tool-list {
     display:grid;
     grid-template-columns: repeat(4, 8.9375rem);
@@ -117,7 +133,7 @@ body {
     grid-row: 3 / 4;
     grid-column: 2 / 4;
   }
-}
+
 
 @media screen and (min-width:90rem) {
   .tool-list {
