@@ -6,8 +6,8 @@
 }
 
 @font-face {
-  font-family: "Poppins Extra-Light";
-  src: url(./assets/Poppins-ExtraLight.ttf)
+  font-family: "Poppins Thin";
+  src: url(./assets/Poppins-Thin.ttf)
 }
 
 @font-face {
@@ -24,7 +24,7 @@
 }
 
 .text-preset-2 {
-  font-family:Poppins Extra-Light, sans-serif;
+  font-family:Poppins Thin, sans-serif;
   font-size:clamp(1.5rem, 0.784rem + 3.053vw, 2.25rem);
   line-height:140%;
   letter-spacing: 0.25px;
